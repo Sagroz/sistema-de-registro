@@ -1,3 +1,3 @@
-# Sistema de Registro
+## Sistema de Registro
 
 ### Estado del proyecto: En construcción.
